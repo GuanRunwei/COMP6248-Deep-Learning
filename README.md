@@ -1,4 +1,2 @@
 # COMP6248-Deep-Learning
-labs
-
-别看了 exercises在deadline之前我是不会上传的
+labs and exercises in 2 branches
